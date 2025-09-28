@@ -1,7 +1,8 @@
 <h1 align="center">🌌 Orion AI Workspace (Orion AI Global)</h1>
 <p align="center">
-A free-to-use intelligent workspace platform by <strong>Orion AI Global</strong> that combines advanced AI capabilities with robust collaboration tools. Users provide their own AI API keys to access AI features while enjoying all workspace and collaboration features at no cost.
+  A free-to-use <strong>intelligent workspace</strong> platform by <strong>Orion AI Global</strong>, combining <strong>advanced AI</strong> with <strong>real-time collaboration</strong> and a privacy-first design.
 </p>
+
 
 <p align="center">
   <a href="https://orionaiworkspace.tech"><img src="https://img.shields.io/badge/Open%20Beta-Join%20Now-blue?style=for-the-badge" alt="Open Beta"/></a>
@@ -103,3 +104,10 @@ A free-to-use intelligent workspace platform by <strong>Orion AI Global</strong>
 <p align="center">
   ⭐ If you like this project, give it a star and share with the community!
 </p>
+
+---
+
+<p align="center">
+  🚀 Product of <strong>Orion AI Global</strong> – Empowering teams with AI while respecting privacy & user control.
+</p>
+
