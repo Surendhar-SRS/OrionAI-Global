@@ -62,7 +62,7 @@ Stable Version : [Soon...](https://orionai.pro)
 - 📖 Documentation: https://orionaiworkspace.tech/documentation
 
 ## Roadmap
-
+- [ ] Own AI Model
 - [ ] Mobile app (React Native)
 - [ ] Advanced document analysis
 - [ ] Team analytics and insights
