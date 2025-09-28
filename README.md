@@ -3,7 +3,8 @@
 A free-to-use intelligent workspace platform that combines advanced AI capabilities with robust collaboration tools. Users provide their own AI API keys to access AI features while enjoying all workspace and collaboration features at no cost.
 
 Open Beta Test : [Join now and leave your valuable feedback](https://orionaiworkspace.tech)
-Coming Soon : [Complete Version](https://orionai.pro)
+
+Stable Version : [Soon](https://orionai.pro)
 
 ## Features
 
