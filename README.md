@@ -1,6 +1,6 @@
 <h1 align="center">🌌 Orion AI Workspace (Orion AI Global)</h1>
 <p align="center">
-A free-to-use intelligent workspace platform that combines advanced AI capabilities with robust collaboration tools. Users provide their own AI API keys to access AI features while enjoying all workspace and collaboration features at no cost.
+A free-to-use intelligent workspace platform by <strong>Orion AI Global</strong> that combines advanced AI capabilities with robust collaboration tools. Users provide their own AI API keys to access AI features while enjoying all workspace and collaboration features at no cost.
 </p>
 
 <p align="center">
