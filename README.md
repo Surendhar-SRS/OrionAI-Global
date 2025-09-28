@@ -4,7 +4,7 @@ A free-to-use intelligent workspace platform that combines advanced AI capabilit
 
 Open Beta Test : [Join now and leave your valuable feedback](https://orionaiworkspace.tech)
 
-Stable Version : [Soon](https://orionai.pro)
+Stable Version : [Soon...](https://orionai.pro)
 
 ## Features
 
