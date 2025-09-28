@@ -1,4 +1,4 @@
-# Orion AI Workspace
+# Orion AI Workspace ( Orion AI Global )
 
 A free-to-use intelligent workspace platform that combines advanced AI capabilities with robust collaboration tools. Users provide their own AI API keys to access AI features while enjoying all workspace and collaboration features at no cost.
 
