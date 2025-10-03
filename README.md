@@ -6,9 +6,7 @@
 
 <p align="center">
   <a href="https://orionaiworkspace.tech"><img src="https://img.shields.io/badge/Open%20Beta-Join%20Now-blue?style=for-the-badge" alt="Open Beta"/></a>
- <a href="https://orionai.pro">
-  <img src="https://img.shields.io/badge/Stable_Version-Coming_Soon-informational?style=for-the-badge" alt="Stable Version"/>
-</a>
+  <a href="https://orionai.pro"><img src="https://img.shields.io/badge/Stable_Version-Coming_Soon-informational?style=for-the-badge" alt="Stable Version"/></a>
   <a href="https://discord.gg/"><img src="https://img.shields.io/discord/000000000000000000?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord"/></a>
   <a href="mailto:support@orionaiworkspace.tech"><img src="https://img.shields.io/badge/Email-Support-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Support"/></a>
 </p>
